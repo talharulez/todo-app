@@ -1,0 +1,80 @@
+body{
+
+
+    background-image: url(image.jpg);
+}
+
+
+
+
+.img{
+    background-size: 100%;
+}
+
+
+.heading{
+     text-align: center;
+}
+
+.inputField{
+    text-align: center;
+}
+
+.btn {
+    color: black;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+
+.li{
+    text-align: center;
+}
+
+.one {
+    color: greenyellow;
+    background-color: grey;
+}
+.two{
+    color: greenyellow;
+    background-color: red;
+}
+
+.inputField{
+    border: 1px solid black;
+    height: 300px;
+    width: 50%px;
+}
+.ul {
+    list-style-type: none;
+}
+.li{
+    list-style-type: none;
+}
+
+
+
+div ul li{
+
+list-style-type: none;
+
+
+}
+
+
+
+.button{
+    color: black;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.editBtn{
+    color: red;
+}
+
+
+button{
+    color: black;
+    background-color:greenyellow;
+}
